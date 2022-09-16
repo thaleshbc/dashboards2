@@ -1,0 +1,14 @@
+name: energy-data
+title: energy-data
+username:
+account: thales-henrique
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7029567
+bundleId: 6307553
+url: https://thales-henrique.shinyapps.io/energy-data/
+when: 1663300362.72725
+lastSyncTime: 1663300362.72725
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data-raw/dados_energia.rds|data-raw/descricao_atributos.rds|data-raw/mundo.rds|data-raw/owid-energy-codebook.csv|data-raw/owid-energy-data.csv|README.Rmd

@@ -1,0 +1,25 @@
+---
+title: ""
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Sobre a aplicação.
+
+
+Essa aplicação está sendo apresentada como trabalho final do curso de dashboards2 realizado pela <a href="https://curso-r.com/" target="_blank">Curso-R</a>.
+
+No site do <a href="https://ourworldindata.org/" target="_blank">Our World in Data</a> (OWiD), há visualizações que abordam diferentes temas. Assuntos relacionados a energia, saúde, agricultura e meio ambiente são exemplos do se pode encontrar lá.
+
+Na parte relacionada a energia, foi possível baixar o conjunto de dados que foi utilizado para gerar todas as visualições disponíveis no site. Os arquivos estão em um repositório no <a href="https://github.com/owid/energy-data" target="_blank">github da OWiD</a>.
+
+Com posse do conjunto de dados, foi criada essa aplicação shiny com a utilização dos pacotes <a href="https://github.com/ThinkR-open/golem" target="_blank">golem</a> e <a href="https://rinterface.github.io/bs4Dash/index.html" target="_blank">bs4Dash</a>. Já, para reproduzir algumas das visualizações disponíveis na página da OWiD, foi utilizado o pacote <a href="https://echarts4r.john-coene.com/" target="_blank">echarts4r</a>.
+
+Para quem quiser visualizar os scripts escritos para a geração da aplicação shiny, segue o <a href="https://github.com/thaleshbc/dashboards2" target="_blank">link do repositório no github</a>.
+
+Para quem estiver no repositório do github e quiser visualizar a apliacação shiny segue o <a href="https://thales-henrique.shinyapps.io/energy-data" target="_blank">link da aplicação</a>.
+
+
