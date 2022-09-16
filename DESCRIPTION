@@ -1,12 +1,12 @@
 Package: dashboards2
-Title: An Amazing Shiny App
+Title: Trabalho de cocnlusão de curso
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "firstname",
-           family = "lastname",
+    person(given = "Thales Henrique",
+           family = "Barros Cardoso",
            role = c("aut", "cre"),
-           email = "your@email.com")
-Description: What the package does (one paragraph).
+           email = "thaleshbc@yahoo.com.br
+Description: Visualização de dados fornecidos pela página Our World in Data.
 License: What license is it under?
 Imports: 
     config (>= 0.3.1),
